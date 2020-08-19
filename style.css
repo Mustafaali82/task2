@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+}
+
+button{
+    background-color: red;
+    color: black;
+    padding: 5px;
+    margin-left: 65px;
+    margin-top: 30px;
+    font-style: italic;
+    font-size: large;
+    padding-right: 10px;
+
+}
+.h {
+    width: 47.122%;
+}
+h3 {
+    font-size: 60px;
+    margin-top: 213px;
+    margin-left: 34px;
+}
+.h a {
+    color: red;
+    list-style-type: none;
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+}
+h2{
+ font-size: 60px;
+ margin-left: 25px;
+
+}
+a{
+    color: red;
+    list-style-type: none;
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+}
+.y{
+    background-color: red;
+    height: 21rem;
+    width: 1340px;
+}
+p{
+    color: white;
+}
+
+
+
